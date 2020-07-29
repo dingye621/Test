@@ -47,7 +47,8 @@
     <Compile Include="Clone.cs" />
     <Compile Include="IAnimal.cs" />
     <Compile Include="IPerson.cs" />
-    <Compile Include="Methods.cs" />
+    <Compile Include="Methods\MethodPartial1.cs" />
+    <Compile Include="Methods\Methods.cs" />
     <Compile Include="TestEnum.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

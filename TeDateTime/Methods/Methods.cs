@@ -14,7 +14,7 @@ using System.Reflection;
 
 namespace VS2010TeDate
 {
-    public class Methods
+    public partial class Methods
     {
 
         public Nullable<DateTime> testDate = DateTime.Now; 
